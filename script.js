@@ -88,4 +88,42 @@
 
 
 
-// git push
+//if else
+// if (condition) {
+
+// }
+// else if (condition) {
+
+// }
+// else {
+
+// }
+
+
+// switch
+// switch (key) {
+//    case value: break;
+//    default: break;
+// }
+
+// ternary
+// let a = 2
+// a % 2 === 0 ? console.log("Четное") : console.log("Нечетное");
+
+
+
+// Цикл
+
+// for (let i = 1; i <= 20; i++) {
+//    console.log(i);
+// }
+// for (let i = 20; i >= 1; i--) {
+//    console.log(i);
+// }
+// for (let i = 1; i <= 20; i = i + 2) {
+//    console.log(i);
+// }
+// let p = "Hi Sasha"
+// for (let i = 0; i < p.length; i++) {
+//    console.log(p[i]);
+// }
