@@ -3,13 +3,13 @@
 //  string  > matn '', "",``
 //  boolean > true yoki false
 //  undefined > belgilanmagan
-//  null > 0 
+//  null > 0
 //  symbol > unique words
 //  bigInt > katta hajmdagi sonlarni saqlash uchun
 
 
 
-// non-primitive, reference, object 
+// non-primitive, reference, object
 // array > []
 // object > {}
 // function > funksiya
@@ -36,7 +36,7 @@
 // console.log(a.toFixed(1));// Переводит Num и Str
 // console.log(a.toString());// Переводит Num и Str
 // console.log(Number.isInteger(a));// Спрашивает число целое ?
-// console.log(Number.parseInt(a));// Показывает только челую часть 
+// console.log(Number.parseInt(a));// Показывает только челую часть
 // console.log(Number.parseFloat(a));// Выводит только число из Str
 
 
@@ -58,23 +58,23 @@
 // ==,===,!==,<,>,&&,||
 
 
-// String 
+// String
 // "" '' ``
 
 // let text = 'Sasha Kim'
 
-// console.log(text.length);// Выведет сколько буков 
+// console.log(text.length);// Выведет сколько буков
 // console.log(text.indexOf('l', 4));// Покажет номер буквы начнает с 0 (после 4 индекса)
 // console.log(text.lastIndexOf('l'));// Покажет номер буквы начиная с конца
-// console.log(text.search('l'));// Покажет номер буквы начнает с 0 
+// console.log(text.search('l'));// Покажет номер буквы начнает с 0
 // console.log(text.chartAt(2));// Выводит букву этого индекса
 // console.log(text.startsWith('a'));// Спрашивает начинается ли солово с этой буквы True/False
 // console.log(text.endWith('a'));// Спрашивает заканчивается ли солово с этой буквы True/False
-// console.log(text.chartCodeAt(1));// Выводит машинный номер буквы 
-// console.log(text.concat('Kim'));// Добывит текс с зади 
+// console.log(text.chartCodeAt(1));// Выводит машинный номер буквы
+// console.log(text.concat('Kim'));// Добывит текс с зади
 // console.log(text.includes('sa'));// Есть ли в тексте True/False
 // console.log(text.repeat(10));// Повторяет текс
-// console.log(text.replace('Kim', 'Big'));// Заиеняет слово 
+// console.log(text.replace('Kim', 'Big'));// Заиеняет слово
 //Регулярные выражения "/Big/gi" g = global i = ignore
 // console.log(text.trimStart());// Убирает прбелы в начале
 // console.log(text.trimEnd());// Убирает прбелы в конце
@@ -85,3 +85,7 @@
 // console.log(text.match(/sasha/gi));// Переведет в Arrey только это текс
 // console.log(text.toLowerText());// Выведит все в нижнем регимтре
 // console.log(text.toUpperText());// Выведит все в верэнем регимтре
+
+
+
+// git push
