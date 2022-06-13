@@ -7,14 +7,10 @@
 //  symbol > unique words
 //  bigInt > katta hajmdagi sonlarni saqlash uchun
 
-
-
 // non-primitive, reference, object
 // array > []
 // object > {}
 // function > funksiya
-
-
 
 // let f = 5
 // let g = 4
@@ -30,7 +26,6 @@
 // console.log(f--);
 // console.log(f);
 
-
 // Number metods
 // let a = 5.83
 // console.log(a.toFixed(1));// Переводит Num и Str
@@ -38,7 +33,6 @@
 // console.log(Number.isInteger(a));// Спрашивает число целое ?
 // console.log(Number.parseInt(a));// Показывает только челую часть
 // console.log(Number.parseFloat(a));// Выводит только число из Str
-
 
 // let a = 5.3
 // console.log(Math.round(a));//округление
@@ -52,11 +46,8 @@
 // console.log(Math.abs(a));//Модуль
 // console.log(Math.round(Math.random() * 100)); //Рандомное число
 
-
-
 // Comparision operators
 // ==,===,!==,<,>,&&,||
-
 
 // String
 // "" '' ``
@@ -86,8 +77,6 @@
 // console.log(text.toLowerText());// Выведит все в нижнем регимтре
 // console.log(text.toUpperText());// Выведит все в верэнем регимтре
 
-
-
 //if else
 // if (condition) {
 
@@ -99,7 +88,6 @@
 
 // }
 
-
 // switch
 // switch (key) {
 //    case value: break;
@@ -109,8 +97,6 @@
 // ternary
 // let a = 2
 // a % 2 === 0 ? console.log("Четное") : console.log("Нечетное");
-
-
 
 // Цикл
 
@@ -127,3 +113,14 @@
 // for (let i = 0; i < p.length; i++) {
 //    console.log(p[i]);
 // }
+
+// let i = 0;
+// while (i < 10) {
+//   i++
+//   console.log(i);
+// }
+
+// do {
+//   i++;
+//   console.log(i);
+// } while (i < 10);
