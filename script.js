@@ -77,7 +77,7 @@
 // console.log(text.toLowerText());// Выведит все в нижнем регимтре
 // console.log(text.toUpperText());// Выведит все в верэнем регимтре
 
-//if else
+// -if else-
 // if (condition) {
 
 // }
@@ -88,18 +88,19 @@
 
 // }
 
-// switch
+// -switch-
 // switch (key) {
 //    case value: break;
 //    default: break;
 // }
 
-// ternary
+// -ternary-
 // let a = 2
 // a % 2 === 0 ? console.log("Четное") : console.log("Нечетное");
 
 // Цикл
 
+// -for-
 // for (let i = 1; i <= 20; i++) {
 //    console.log(i);
 // }
@@ -114,12 +115,15 @@
 //    console.log(p[i]);
 // }
 
+// -while-
 // let i = 0;
 // while (i < 10) {
 //   i++
 //   console.log(i);
 // }
 
+// -do while-
+// let i = 0
 // do {
 //   i++;
 //   console.log(i);
