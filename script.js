@@ -128,3 +128,23 @@
 //   i++;
 //   console.log(i);
 // } while (i < 10);
+
+// Функции
+
+// Function declaration
+// function name(params) {
+//    return
+// }
+// console.log(name());
+
+// Funcition expression
+// let name = function (params) {
+
+// }
+// name()
+
+//  Arrow funcition
+// let name = () => {
+
+// }
+// let name = (_)=> 
