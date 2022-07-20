@@ -1,0 +1,28 @@
+class Card extends React.Component {
+  constructor(props){
+    super(props);
+    this.state={
+      count:0
+    }
+  }
+
+  render(){
+    let minus = () =>{
+      this.setState({count:this.state.count-1})
+    }
+    let plus = () =>{
+      this.setState({count:this.state.count+1})
+    }
+    return(
+      <div className='counter'>
+        <button onClick={minus}>-</button>
+        <p>{this.state.count}</p>
+        <button onClick={plus}>+</button>
+      </div>
+    )
+  }
+
+  
+}
+
+export default Card;
