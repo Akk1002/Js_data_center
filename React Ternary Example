@@ -1,0 +1,25 @@
+class Card extends React.Component {Z 
+  constructor(props){
+    super(props);
+    this.state={
+      jalil:true
+    }
+  }
+
+  render(){
+   const change =()=>{
+    this.setState({jalil:!this.state.jalil})
+   }
+    return(
+     <div>
+     {this.state.jalil === true? <h1>hello God of WAr</h1>:<h1>hello Dota 2</h1>}
+     <button onClick={change}>change</button>
+     </div>
+     
+    )
+  }
+
+  
+}
+
+export default Card;
